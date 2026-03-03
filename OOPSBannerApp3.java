@@ -1,4 +1,4 @@
-public class OOPSBannerApp3 {
+public class OOPSBannerApp {
 
     public static void main(String[] args) {
         // Row 0
